@@ -1,0 +1,62 @@
+[
+    {
+        "nombreCancion": "Always",
+        "artista": "Bon Jovi",
+        "imagen": "./images/always.jfif"
+    },
+    {
+        "nombreCancion": "Fortnight (con Post Malone)",
+        "artista": "Taylor Swift",
+        "imagen": "./images/fortnight.jpg"
+    },
+    {
+        "nombreCancion": "Had Some Help (con Morgan Wallen)",
+        "artista": "Post Malone",
+        "imagen": "./images/i-had-some-help.jfif"
+    },
+    {
+        "nombreCancion": "BZRP Session #50",
+        "artista": "Duki",
+        "imagen": "./images/duki.jpg"
+    },
+    {
+        "nombreCancion": "Un Verano Sin Ti",
+        "artista": "Bad Bunny",
+        "imagen": "./images/Un_Verano_Sin_Ti.png"
+    },
+    {
+        "nombreCancion": "Cupido",
+        "artista": "Tini",
+        "imagen": "./images/tini.jfif"
+    },
+    {
+        "nombreCancion": "Leave Before You Love Me",
+        "artista": "Marshmello",
+        "imagen": "./images/Leave_before_you_love.png"
+    },
+    {
+        "nombreCancion": "My Hero",
+        "artista": "Foo Fighters",
+        "imagen": "./images/My_hero.png"
+    },
+    {
+        "nombreCancion": "Chasing Cars",
+        "artista": "Snow Patrol",
+        "imagen": "./images/Chasing_stars.png"
+    },
+    {
+        "nombreCancion": "In The End",
+        "artista": "Linkin Park",
+        "imagen": "./images/In_the_end.png"
+    },
+    {
+        "nombreCancion": "Fast Car (con Dakota)",
+        "artista": "Jonas Blue",
+        "imagen": "./images/Fast_car.png"
+    },
+    {
+        "nombreCancion": "Somebody To Love",
+        "artista": "Queen",
+        "imagen": "./images/Somebody_to_love.png"
+    }
+]

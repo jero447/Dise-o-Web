@@ -1,0 +1,170 @@
+[
+    {
+        "nombreCancion": "Billie Jean",
+        "artista": "Michael Jackson",
+        "año": 1982,
+        "genero": "Pop",
+        "imagen": "./images/michael_jackson.webp"
+    },
+    {
+        "nombreCancion": "Beat It",
+        "artista": "Michael Jackson",
+        "año": 1983,
+        "genero": "Pop",
+        "imagen": "./images/michael_jackson.webp"
+    },
+    {
+        "nombreCancion": "Thriller",
+        "artista": "Michael Jackson",
+        "año": 1982,
+        "genero": "Pop",
+        "imagen": "./images/michael_jackson.webp"
+    },
+    {
+        "nombreCancion": "Livin on a Prayer",
+        "artista": "Bon Jovi",
+        "año": 1986,
+        "genero": "Rock",
+        "imagen": "./images/Livin_On_A_Prayer.png"
+    },
+    {
+        "nombreCancion": "It's My Life",
+        "artista": "Bon Jovi",
+        "año": 2000,
+        "genero": "Rock",
+        "imagen": "./images/bon_jovi.png"
+    },
+    {
+        "nombreCancion": "Sweet Child O'Mine",
+        "artista": "Guns N' Roses",
+        "año": 1987,
+        "genero": "Rock",
+        "imagen": "./images/Guns_n_roses.png"
+    },
+    {
+        "nombreCancion": "Under Pressure",
+        "artista": "Queen",
+        "año": 1981,
+        "genero": "Rock",
+        "imagen": "./images/under_pressure.png"
+    },
+    {
+        "nombreCancion": "Bohemian Rhapsody",
+        "artista": "Queen",
+        "año": 1985,
+        "genero": "Rock",
+        "imagen": "./images/Bohemian.png"
+    },
+    {
+        "nombreCancion": "Every Breath You Take",
+        "artista": "The Police",
+        "año": 1983,
+        "genero": "Rock",
+        "imagen": "./images/Every_breath_you_take.png"
+    },
+    {
+        "nombreCancion": "Material Girl",
+        "artista": "Maddona",
+        "año": 1984,
+        "genero": "Pop",
+        "imagen": "./images/Maddona.png"
+    },
+    {
+        "nombreCancion": "I Want It That Way",
+        "artista": "Backstreet Boys",
+        "año": 1999,
+        "genero": "Pop",
+        "imagen": "./images/I_want_it_that_way.png"
+    },
+    {
+        "nombreCancion": "Wonderwall",
+        "artista": "Oasis",
+        "año": 1995,
+        "genero": "Rock",
+        "imagen": "./images/Wonderwall.png"
+    },
+    {
+        "nombreCancion": "Vogue",
+        "artista": "Maddona",
+        "año": 1990,
+        "genero": "Pop",
+        "imagen": "./images/Maddona.png"
+    },
+    {
+        "nombreCancion": "Viva la Vida",
+        "artista": "Coldplay",
+        "año": 2008,
+        "genero": "Rock Alternativo",
+        "imagen": "./images/Viva_la_vida.png"
+    },
+    {
+        "nombreCancion": "Clocks",
+        "artista": "Coldplay",
+        "año": 2002,
+        "genero": "Rock Alternativo",
+        "imagen": "./images/Clocks.png"
+    },
+    {
+        "nombreCancion": "The Scientist",
+        "artista": "Coldplay",
+        "año": 2002,
+        "genero": "Rock Alternativo",
+        "imagen": "./images/The_scientist.png"
+    },
+    {
+        "nombreCancion": "California Love",
+        "artista": "2Pac",
+        "año": 1995,
+        "genero": "Hip Hop",
+        "imagen": "./images/2pac.png"
+    },
+    {
+        "nombreCancion": "Gangsta's Paradise",
+        "artista": "Coolio",
+        "año": 1995,
+        "genero": "Hip Hop",
+        "imagen": "./images/Coolio.png"
+    },
+    {
+        "nombreCancion": "Felices los 4",
+        "artista": "Maluma",
+        "año": 2017,
+        "genero": "Regueton",
+        "imagen": "./images/Felices_los_4.png"
+    },
+    {
+        "nombreCancion": "Hawai",
+        "artista": "Maluma",
+        "año": 2020,
+        "genero": "Regueton",
+        "imagen": "./images/Hawai.png"
+    },
+    {
+        "nombreCancion": "Corazon",
+        "artista": "Maluma",
+        "año": 2018,
+        "genero": "Regueton",
+        "imagen": "./images/Corazon.png"
+    },
+    {
+        "nombreCancion": "Wrapped Around Your Finger",
+        "artista": "The Police",
+        "año": 1983,
+        "genero": "Rock",
+        "imagen": "./images/Wrapped_around _your_finger.png"
+    },
+    {
+        "nombreCancion": "As Long As You Love Me",
+        "artista": "Backstreet Boys",
+        "año": 1997,
+        "genero": "Pop",
+        "imagen": "./images/As_long_as_you_love_me.png"
+    },
+    {
+        "nombreCancion": "Quit Playing Games",
+        "artista": "Backstreet Boys",
+        "año": 1996,
+        "genero": "Pop",
+        "imagen": "./images/Quit_playing_games.png"
+    }
+]
